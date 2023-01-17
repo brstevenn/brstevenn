@@ -4,10 +4,10 @@
 <h2>Habilidades 🛠️</h2>
 <ul>
   <li>JavaScript<img width="10px" href="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"></li>
-  <li>React<img width="10px" href="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" alt="React"></li>
+  <li>React<img width="10px" href="./png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.svg" alt="React"></li>
   <li>Node<img width="10px" href="https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png" alt="Node"></li>
   <li>PostgreSQL<img width="10px" href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"></li>
-  <li>MongoDB<img width="10px" href="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" alt="MongoDB"></li>
+  <li>MongoDB<img width="10px" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg" alt="MongoDB"></li>
 </ul>
 
 <h2>Enfoque 🧐</h2>
@@ -21,6 +21,6 @@
 
 <h2>Contactos 📞</h2>
 <ul>
-  <li>Email: brstevengaitan@gmail.com <a href="brstevengaitan@gmail.com" alt="Gmail" ><img width="10px" href="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"></a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/bryan-gaitan-0ba256119/" alt="LinkedIn" ><img width="10px" href="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"></a></li>
+  <li>Email: brstevengaitan@gmail.com <a href="brstevengaitan@gmail.com" alt="Gmail" target="_blank" ><img width="10px" href="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"></a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/bryan-gaitan-0ba256119/" alt="LinkedIn" target="_blank"><img width="10px" href="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"></a></li>
 </ul>
