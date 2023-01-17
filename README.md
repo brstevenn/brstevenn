@@ -3,11 +3,11 @@
 
 <h2>Habilidades 🛠️</h2>
 <ul>
-  <li>JavaScript<img width="10px" href="https://raw.githubusercontent.com/brstevenn/brstevenn/1d2048799d7e5d745ee99e8adbf3b8e8c50a5dd8/assets/icons/gmail-icon.svg" alt="JavaScript"></li>
-  <li>React<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/react-1.svg" alt="React"></li>
-  <li>Node<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/nodejs.svg" alt="Node"></li>
-  <li>PostgreSQL<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/postgresql.svg" alt="PostgreSQL"></li>
-  <li>MongoDB<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/mongodb-ar21.svg" alt="MongoDB"></li>
+  <li><img width="30px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/22336fe3d8cb9df7f63d01b30515fce47cb22abc/assets/icons/javascript-1.svg" alt="JavaScript"></li>
+  <li><img width="35px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/22336fe3d8cb9df7f63d01b30515fce47cb22abc/assets/icons/react-1.svg" alt="React"></li>
+  <li><img width="120px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/22336fe3d8cb9df7f63d01b30515fce47cb22abc/assets/icons/nodejs.svg" alt="Node"></li>
+  <li><img width="35px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/22336fe3d8cb9df7f63d01b30515fce47cb22abc/assets/icons/postgresql.svg" alt="PostgreSQL"></li>
+  <li><img width="120px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/22336fe3d8cb9df7f63d01b30515fce47cb22abc/assets/icons/mongodb-ar21.svg" alt="MongoDB"></li>
 </ul>
 
 <h2>Enfoque 🧐</h2>
@@ -21,6 +21,6 @@
 
 <h2>Contactos 📞</h2>
 <ul>
-  <li>Email: brstevengaitan@gmail.com <a href="brstevengaitan@gmail.com" alt="Gmail" target="_blank" ><img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/gmail-icon.svg" alt="Gmail"></a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/bryan-gaitan-0ba256119/" alt="LinkedIn" target="_blank"><img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/linkedin-icon-2.svg" alt="LinkedIn"></a></li>
+  <li>Email <a href="brstevengaitan@gmail.com" alt="Gmail" target="_blank" ><img width="20px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/1d2048799d7e5d745ee99e8adbf3b8e8c50a5dd8/assets/icons/gmail-icon.svg" alt="Gmail"></a>: brstevengaitan@gmail.com</li>
+  <li>LinkedIn <a href="https://www.linkedin.com/in/bryan-gaitan-0ba256119/" alt="LinkedIn" target="_blank"><img width="20px" src="https://raw.githubusercontent.com/brstevenn/brstevenn/22336fe3d8cb9df7f63d01b30515fce47cb22abc/assets/icons/linkedin-icon-2.svg" alt="LinkedIn"></a></li>
 </ul>
