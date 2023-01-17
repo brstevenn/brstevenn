@@ -3,7 +3,7 @@
 
 <h2>Habilidades 🛠️</h2>
 <ul>
-  <li>JavaScript<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/javascript-1.svg" alt="JavaScript"></li>
+  <li>JavaScript<img width="10px" href="https://raw.githubusercontent.com/brstevenn/brstevenn/1d2048799d7e5d745ee99e8adbf3b8e8c50a5dd8/assets/icons/gmail-icon.svg" alt="JavaScript"></li>
   <li>React<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/react-1.svg" alt="React"></li>
   <li>Node<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/nodejs.svg" alt="Node"></li>
   <li>PostgreSQL<img width="10px" href="https://github.com/brstevenn/brstevenn/blob/main/assets/icons/postgresql.svg" alt="PostgreSQL"></li>
